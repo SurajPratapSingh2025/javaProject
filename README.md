@@ -6,6 +6,21 @@ This repository contains multiple practical implementations using **Spring Boot 
 
 ## 🚀 Topics Covered
 
+1. How to Generate QR Code in Spring Boot 3 Rest API  
+2. Gmail SMTP Server Settings: Host Username and Password for Projects
+3. How to Send Email using Java Mail Sender(JMS) using Spring Boot
+4. How to Send Email With Attachment using Java Mail Sender(JMS) using Spring Boot 
+5. Spring Boot Forgot Password & Set Password (Java Mail Sender | SMTP)
+6. Spring Boot OTP Verification using Email (Java Mail Sender | SMTP)
+7. Spring Boot OTP Verification using SMS
+---
+
+## Learning Objective
+
+### 🧾 Utility Features
+- **Generate QR Code**
+  - Create QR codes using Spring Boot 3 REST API
+
 ### 📧 Email & SMTP Configuration
 - **Gmail SMTP Server Settings**
   - Host, Username, and Password configuration for projects
@@ -15,8 +30,6 @@ This repository contains multiple practical implementations using **Spring Boot 
 
 - **Send Email with Attachment**
   - Attach files using Java Mail Sender in Spring Boot
-
----
 
 ### 🔐 Authentication & Security
 - **OTP Verification using Email**
@@ -28,20 +41,6 @@ This repository contains multiple practical implementations using **Spring Boot 
 - **Send OTP/SMS**
   - OTP sending using Spring Boot 3
 
----
-
-### 🔄 REST API Development
-- **Spring Boot REST API CRUD Example**
-  - Full CRUD operations using:
-    - Spring Data JPA  
-    - MySQL  
-    - Postman testing  
-
----
-
-### 🧾 Utility Features
-- **Generate QR Code**
-  - Create QR codes using Spring Boot 3 REST API
 
 ---
 
